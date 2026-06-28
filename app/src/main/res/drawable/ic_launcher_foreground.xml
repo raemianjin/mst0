@@ -1,0 +1,40 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- 문서 카드 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,28 h26 a4,4 0 0 1 4,4 v44 a4,4 0 0 1 -4,4 h-26 a4,4 0 0 1 -4,-4 v-44 a4,4 0 0 1 4,-4 z" />
+    <!-- 문서 줄 -->
+    <path android:fillColor="#9DB7FF" android:pathData="M41,38 h20 v3 h-20 z" />
+    <path android:fillColor="#9DB7FF" android:pathData="M41,46 h20 v3 h-20 z" />
+    <path android:fillColor="#9DB7FF" android:pathData="M41,54 h13 v3 h-13 z" />
+    <!-- 마이크 본체 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,52 m-9,0 a9,9 0 1,0 18,0 a9,9 0 1,0 -18,0"
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="0" />
+    <path
+        android:fillColor="#1B4DFF"
+        android:pathData="M66,40 a6,6 0 0 1 6,6 v8 a6,6 0 0 1 -12,0 v-8 a6,6 0 0 1 6,-6 z" />
+    <!-- 마이크 받침 -->
+    <path
+        android:strokeColor="#1B4DFF"
+        android:strokeWidth="3"
+        android:fillColor="#00000000"
+        android:strokeLineCap="round"
+        android:pathData="M56,54 a10,10 0 0 0 20,0" />
+    <path
+        android:strokeColor="#1B4DFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M66,64 v6" />
+    <path
+        android:strokeColor="#1B4DFF"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:pathData="M61,70 h10" />
+</vector>
